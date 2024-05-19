@@ -3,22 +3,22 @@ public class SistemaMedida {
         String sigla ="M";
 
         switch (sigla) {
-            case "P":{
+            case "P": {
                 System.out.println("Pequeno");
-                break;// ele nao mostra os outros casos
-            }
-            case "M":{
-                System.out.println("Medio");
                 break;
             }
-            case "G":{
+            case "M": {
+                System.out.println("Médio");
+                break;
+            }
+            case "G": {
                 System.out.println("Grande");
                 break;
             }   
-            default:{
+            default: {
                 System.out.println("Indefinido");
             }
-      
+            
         }
             
     }
