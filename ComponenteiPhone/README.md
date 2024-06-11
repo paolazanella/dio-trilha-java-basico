@@ -29,7 +29,7 @@ O projeto está organizado da seguinte forma:
 4. Compile o código-fonte com o comando `javac -d ../out/production/ComponenteiPhone com/desafio/dio/poo/Main.java`.
 5. Execute o projeto com o comando `java -classpath ../out/production/ComponenteiPhone com.desafio.dio.poo.Main`.
 
-## Contribuição
+## Diagrama de class
 
 
 ![Diagrama em branco](https://github.com/paolazanella/dio-trilha-java-basico/assets/103282431/3323b4fd-5db3-4ef9-baf4-bd7315a2a390)
